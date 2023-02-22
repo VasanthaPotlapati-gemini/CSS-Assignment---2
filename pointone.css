@@ -1,0 +1,54 @@
+html {
+    /* If we set the default size to 16px */
+    font-size:16px;
+  }
+
+.em{
+    font-size: 2em;
+    border: 1px dotted pink;
+  }
+  
+.em1{
+    font-size: 0.8em;
+    border: 1px dotted blue;
+  }
+  
+.rem{
+    font-size: 3rem;
+    border: 1px dotted pink;
+  }
+  
+.rem1{
+    font-size: 2rem;
+    border: 1px dotted blue;
+  }
+
+  .vh{
+    
+    border: 1vh dashed yellow;
+  }
+
+  .vh1{
+
+    border: 3vh dashed yellowgreen;
+  }
+
+  .vw{
+    
+    border: 1vw dashed red;
+  }
+
+  .vw1{
+
+    border: 3vw dashed brown;
+  }
+
+  .px{
+    font-size: 25px;
+    border: 1px dotted pink;
+  }
+
+  .px1{
+    font-size: 50px;
+    border: 1px dotted blue;
+  }
